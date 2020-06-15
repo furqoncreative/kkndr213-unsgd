@@ -289,7 +289,7 @@ p {
 
 
 
-#about {
+#members {
   padding: 0px;
   background-image: url(../img/services-bg.jpg);
   background-repeat: no-repeat;
@@ -298,13 +298,13 @@ p {
   background-attachment: fixed;
 }
 
-#about .service-item {
+#members .service-item {
   text-align: center;
   margin: 0px -15px;
   padding: 120px 45px;
 }
 
-#about .service-item h4 {
+#members .service-item h4 {
   margin-top: 45px;
   margin-bottom: 20px;
   font-size: 22px;
@@ -313,24 +313,24 @@ p {
   text-transform: uppercase;
 }
 
-#about .service-item p {
+#members .service-item p {
   margin-bottom: 0px;
   color: #fff;
 }
 
-#about .first-service {
+#members .first-service {
   background-color: rgba(242, 116, 95, 0.75);
 }
 
-#about .second-service {
+#members .second-service {
   background-color: rgba(54, 62, 80, 0.75);
 }
 
-#about .third-service {
+#members .third-service {
   background-color: rgba(70, 186, 226, 0.75);
 }
 
-#about .service-item .icon {
+#members .service-item .icon {
   width: 70px;
   height: 70px;
   display: inline-block;
@@ -417,28 +417,28 @@ p {
 
 
 
-#portfolio {
+#gallery {
   text-align: center;
 }
 
-#portfolio .item {
+#gallery .item {
   margin: 0px 5px;
 }
 
-.portfolio-section {
+.gallery-section {
   background-color: #363e50;
   padding-bottom: 80px;
 }
 
-#portfolio .section-heading h4 {
+#gallery .section-heading h4 {
   color: #fff;
 }
 
-#portfolio .section-heading p {
+#gallery .section-heading p {
   color: #aaa;
 }
 
-#portfolio .portfolio-item img {
+#gallery .gallery-item img {
   max-width: 100%;
   overflow: hidden;
 }
@@ -464,11 +464,11 @@ p {
 
 
 
-#blog {
+#journey {
   background-color: #f4f4f4;
 }
 
-#blog .section-heading {
+#journey .section-heading {
   text-align: center;
 }
 
@@ -476,18 +476,18 @@ p {
   text-align: left;
 }
 
-#blog .tabs {
+#journey .tabs {
   list-style: none;
   margin-top: 0px;
 }
 
-#blog .tabs li {
+#journey .tabs li {
   display: block;
   text-align: left;
   margin-bottom: 29px;
 }
 
-#blog .tabs a {
+#journey .tabs a {
   display:block;
   text-align: left;
   text-decoration:none;
@@ -502,14 +502,14 @@ p {
   box-shadow: 0px 0px 10px #cdcdcd;
 }
 
-#blog .tabs .active {
+#journey .tabs .active {
   background-color: #46bae2;
   color: #fff!important;
 }
-#blog .tabs .active .info-post li {
+#journey .tabs .active .info-post li {
   color: #fff!important;
 }
-#blog .tabs .active .info-post li i {
+#journey .tabs .active .info-post li i {
   color: #fff!important;
 }
 #first-tab-group {
@@ -569,23 +569,23 @@ p {
   clear:both;
 }
 
-#blog {
+#journey {
   padding-bottom: 80px;
 }
 
-#blog .info-post li {
+#journey .info-post li {
   display: inline;
   margin-right: 15px;
 }
 
-#blog .info-post li {
+#journey .info-post li {
   color: #343434;
   font-size: 15px;
   font-weight: 300;
   text-transform: capitalize;
 }
 
-#blog .info-post li i {
+#journey .info-post li i {
   color: #46bae2;
   margin-right: 5px;
 }
