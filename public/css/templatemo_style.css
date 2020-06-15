@@ -438,7 +438,7 @@ p {
   color: #aaa;
 }
 
-#gallery .gallery-item img {
+#gallery .portfolio-item img {
   max-width: 100%;
   overflow: hidden;
 }
